@@ -201,3 +201,4 @@ EMAIL_HOST_USER = 'testportalsns@gmail.com'  # Your email address
 EMAIL_HOST_PASSWORD = 'xsqt gxtk prdj ptsx'  # Your email password
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER  # Default from email address
 MONGODB_URI='mongodb+srv://krish:krish@assessment.ar5zh.mongodb.net/'
+New='change'
